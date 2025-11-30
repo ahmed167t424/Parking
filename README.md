@@ -117,7 +117,23 @@
             });
         }
         
-        // باقي الكود JavaScript السابق
+    {
+  "name": "مواقفنا - حجز مواقف",
+  "short_name": "مواقفنا",
+  "description": "تطبيق حجز مواقف السيارات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2E86AB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🅿️</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}    // باقي الكود JavaScript السابق
         // ...
     </script>
 </body>
